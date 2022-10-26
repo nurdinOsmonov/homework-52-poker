@@ -9,7 +9,9 @@
 
 /* card itself
 ********************************************************************/
-
+.playingCards {
+  display: inline-block;
+}
 .playingCards .card {
   display: inline-block;
   width: 3.3em;
